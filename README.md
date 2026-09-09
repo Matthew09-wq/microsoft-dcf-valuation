@@ -33,6 +33,18 @@ The difference between the DCF value and the reference market price is treated a
 ## Case Study
 
 [View the full Microsoft DCF Case Study](Microsoft_Case_Study_1.pdf)
+## Repository Contents
+
+```text
+microsoft-dcf-valuation/
+│
+├── Microsoft_Case_Study_1.pdf
+├── microsoft_case_study_preview.png
+├── src/
+│   └── msft_dcf_engine.py
+├── .gitignore
+└── README.md
+```
 
 ## Methodology
 
