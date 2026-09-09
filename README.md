@@ -1,5 +1,5 @@
 # Microsoft DCF Valuation
-
+![Microsoft DCF Case Study Preview](microsoft_case_study_preview.png)
 ## Overview
 
 This project presents a 10-year discounted cash flow valuation of Microsoft Corporation (NASDAQ: MSFT), developed as part of my financial analysis portfolio.
