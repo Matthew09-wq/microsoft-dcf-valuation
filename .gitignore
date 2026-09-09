@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment / credentials
+.env
+.env.*
+*.key
+
+# Proprietary and private financial data
+data/raw/
+data/processed/
+data/reference/
+private/
+sources/
+
+# Do not publish underlying CSV datasets
+*.csv
